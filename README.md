@@ -123,9 +123,9 @@ For contribution you can see our [guidelines](CONTRIBUTING.md)
     * [C](MISC/Spell-the-number/C/spell_the_number.c)
   * CAESAR-CIPHER
     * [PYTHON](MISC/Caesar-Cipher/Python/caesar-cipher.py)
- * Rhombus Pattern
+  * Rhombus Pattern
     * [PYTHON](MISC/rhombus_patt.py)
- * COIN CHANGE PERMUTATION
+  * COIN CHANGE PERMUTATION
     * [PYTHON](MISC/Coin_Change_Permutation/PYTHON/CoinChangePer.py)
 
 ## LICENSE
